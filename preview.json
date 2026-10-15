@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"0.1.0\",\"pub_date\":\"2026-10-15T19:26:49.054Z\",\"notes_url\":\"https://github.com/v1narth/ultracode-releases/releases/tag/v0.1.0\",\"assets\":{\"darwin-arm64\":{\"url\":\"https://github.com/v1narth/ultracode-releases/releases/download/v0.1.0/Ultra-Chat-darwin-arm64.zip\",\"sha256\":\"c122831958b7300f9a89e891d15216afe34c88aca02b4780eab0c8eac3dcaebc\",\"size\":67210678}}}",
-  "signature": "UCNzUjvbLF1KvV2KjA7BnZlxnOG1pHGVHadThZ0CtZ1n3QViHc6nc8YX8Ilhy1i4j9C6WAj/2T1UxYoWvtRvAQ=="
+  "payload": "{\"version\":\"0.1.1\",\"pub_date\":\"2026-10-15T20:56:34.441Z\",\"notes_url\":\"https://github.com/v1narth/ultracode-releases/releases/tag/v0.1.1\",\"assets\":{\"darwin-arm64\":{\"url\":\"https://github.com/v1narth/ultracode-releases/releases/download/v0.1.1/Ultra-Chat-darwin-arm64.zip\",\"sha256\":\"7090a0229d04692a72d02aa1e37bb9c9c451a70affc0efda66b342a42a434fd8\",\"size\":67244944}}}",
+  "signature": "a+5yyeDADjHifEoZySyYiGcwej44IVJp7hc4fvrNRun7jETcFu7E7QWZGiqoGupqAW9X4/Zu/BII3HFRnYxSCA=="
 }
