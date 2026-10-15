@@ -1,0 +1,4 @@
+{
+  "payload": "{\"version\":\"0.1.0-preview.1\",\"pub_date\":\"2026-10-15T19:03:16.170Z\",\"notes_url\":\"https://github.com/v1narth/ultracode-releases/releases/tag/v0.1.0-preview.1\",\"assets\":{\"darwin-arm64\":{\"url\":\"https://github.com/v1narth/ultracode-releases/releases/download/v0.1.0-preview.1/Ultra-Chat-darwin-arm64.zip\",\"sha256\":\"b54af3ed726bb3d74c84a217fa2777e8500637af1ad4835bb23f54a76c661807\",\"size\":67210807}}}",
+  "signature": "Yz+DG3KYS1rbri9vRbyDlMVaU2oqQvFDm1YUafRPUSevFUIdtTnFUWogsw/VEjcZkfQkdqQ/5t2gYovWdRS/AA=="
+}
